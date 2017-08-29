@@ -14,3 +14,11 @@
 	padding-left: 30px;
 }
 
+.postid-1544 .site-main .sidebar-container {
+	position: static;
+	top: 0;
+}
+
+.media-archive .flex {
+	display: flex;
+}
